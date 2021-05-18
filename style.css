@@ -27,6 +27,8 @@ h1 {
 }
 
 .plant {
+  display: block;
+  margin: 0 auto;
   max-width: 100%;
   height: calc(100vh / 7);
 }
